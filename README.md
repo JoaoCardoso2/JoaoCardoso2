@@ -26,7 +26,8 @@ tagert="_blank"></a>
   <div>
     
  ![Snake animation](https://github.com/JoaoCardoso2/JoaoCardoso2/blob/output/github-contribution-grid-snake.svg)
-name: Generate Datas
+
+    name: Generate Datas
 on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
@@ -44,7 +45,7 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
 
-      # Snake Animation
+       Snake Animation
       - uses: Platane/snk@master
         id: snake-gif
         with:
