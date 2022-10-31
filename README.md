@@ -24,5 +24,5 @@ tagert="_blank"></a>
 <a herf="https://wa.me/qr/JM4X5KYYGNFTC1" tagert="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
 tagert="_blank"></a>
 
-![Snake animation](https://github.com/TharcioAndrade/TharcioAndrade/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JoaoCardoso2/JoaoCardoso2/blob/output/github-contribution-grid-snake.svg)
   <div>
